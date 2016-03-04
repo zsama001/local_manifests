@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="device/motorola/olympus" name="Litew/android_device_motorola_olympus" revision="hybris-11.0" />
+<project path="kernel/motorola/olympus" name="Litew/android_kernel_motorola_olympus" revision="hybris-11.0" />
+<project path="vendor/motorola/olympus" name="Litew/android_vendor_motorola_olympus" revision="hybris-11.0" />
+<project path="rpm/" name="Litew/droid-hal-olympus" revision="master" />
+<project path="hybris/droid-configs" name="Litew/droid-config-olympus" revision="master" />
+<project path="hybris/droid-hal-version-olympus" name="Litew/droid-hal-version-olympus" revision="master" />
+</manifest>
