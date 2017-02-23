@@ -6,7 +6,7 @@
     <project path="vendor/zuk/ham/" name="Litew/proprietary_vendor_zuk" remote="github" revision="hybris-12.1" />
     <project path="rpm/" name="Litew/droid-hal-ham" remote="github" revision="master" />
     <project path="hybris/droid-configs/" name="Litew/droid-config-ham" remote="github" revision="master" />
-    <project path="hybris/droid-hal-version-armani/" name="Litew/droid-hal-version-ham" remote="github" revision="master" />
+    <project path="hybris/droid-hal-version-ham/" name="Litew/droid-hal-version-ham" remote="github" revision="master" />
     <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="stable/cm-12.1-YOG7D" />
     <project path="external/udev/" name="chombourger/android-udev" remote="github" revision="master" />
 </manifest>
