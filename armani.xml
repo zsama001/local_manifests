@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- armani Specific -->
-<project path="kernel/xiaomi/armani/" name="Litew/android_kernel_xiaomi_armani" remote="github" revision="hybris-11.0" />
-<project path="device/xiaomi/armani/" name="Litew/android_device_xiaomi_armani" remote="github" revision="hybris-11.0" />
-<project path="vendor/xiaomi/" name="Litew/proprietary_vendor_xiaomi" remote="github" revision="cm-11.0" />
+<project path="kernel/xiaomi/armani/" name="Litew/android_kernel_xiaomi_armani" remote="github" revision="hybris-12.1" />
+<project path="device/xiaomi/armani/" name="Litew/android_device_xiaomi_armani" remote="github" revision="hybris-12.1" />
+<project path="vendor/xiaomi/" name="Litew/proprietary_vendor_xiaomi" remote="github" revision="hybris-12.1" />
 <project path="rpm/" name="Litew/droid-hal-armani" remote="github" revision="master" />
 <project path="hybris/droid-configs/" name="Litew/droid-config-armani" remote="github" revision="master" />
 <project path="hybris/droid-hal-version-armani/" name="Litew/droid-hal-version-armani" remote="github" revision="master" />
