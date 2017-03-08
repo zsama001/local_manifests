@@ -8,6 +8,4 @@
 <project path="hybris/droid-configs/" name="Litew/droid-config-armani" remote="github" revision="master" />
 <project path="hybris/droid-hal-version-armani/" name="Litew/droid-hal-version-armani" remote="github" revision="master" />
 <project path="external/udev/" name="chombourger/android-udev" remote="github" revision="master" />
-<project path="external/audioflingerglue/" name="mlehtima/audioflingerglue" remote="github" revision="master" />
 </manifest>
-
